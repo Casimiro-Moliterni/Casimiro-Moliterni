@@ -2,7 +2,8 @@
 
 ## 👋 Hello!
 
-I'm an Italian Junior Full Stack Developer & Coding Coach with 8+ years of experience.
+I'm an Italian Junior Full Stack Developer.
+If you can't find me I'm writing code!!
 
 ## 💻 Technologies & Tools:
 <div style="display=flex" dir="auto">
