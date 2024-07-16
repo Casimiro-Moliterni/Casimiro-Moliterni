@@ -13,7 +13,7 @@ I'm an Italian Junior Full Stack Developer & Coding Coach with 8+ years of exper
 
 ## 📊 Statistics:
 
-![](https://github-readme-stats.vercel.app/api?username=samuelemadrigali&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
+
 
 ## 👨‍💻 Socials:
 
