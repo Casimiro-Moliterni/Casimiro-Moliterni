@@ -6,11 +6,19 @@ I'm an Italian Junior Full Stack Developer.
 If you can't find me I'm writing code!!
 
 ## 💻 Technologies & Tools:
-<div style="display=flex" dir="auto">
-  <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/1d1e1a6c45be8825c78461f479798dc248f55f6afa3a388eac1ec144cb6f687a/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d7068702c6c61726176656c2c6d7973716c2c6e706d2c766974652c676974"><img src="https://camo.githubusercontent.com/1d1e1a6c45be8825c78461f479798dc248f55f6afa3a388eac1ec144cb6f687a/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d7068702c6c61726176656c2c6d7973716c2c6e706d2c766974652c676974" data-canonical-src="https://skillicons.dev/icons?i=php,laravel,mysql,npm,vite,git" style="max-width: 100%;"></a>
-  <br>
-  <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/88128095800689d569419d329f3d3f8aba14bbc019702619c282275175fe89ec/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d68746d6c2c6373732c736173732c6a6176617363726970742c7673636f64652c7675652c626f6f7473747261702c676974687562"><img src="https://camo.githubusercontent.com/88128095800689d569419d329f3d3f8aba14bbc019702619c282275175fe89ec/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d68746d6c2c6373732c736173732c6a6176617363726970742c7673636f64652c7675652c626f6f7473747261702c676974687562" data-canonical-src="https://skillicons.dev/icons?i=html,css,sass,javascript,vscode,vue,bootstrap,github" style="max-width: 100%;"></a>
-</div>
+...I'm currently learning/I know decently enough:
+
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
+![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
 ## 📊 Statistics:
 
